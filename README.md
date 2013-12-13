@@ -1,4 +1,4 @@
 book-search
 ===========
 
-SW 공학도구
+SW 공학도구 Git & Jenkins
